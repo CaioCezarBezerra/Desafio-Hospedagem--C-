@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafio-Hotel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f36b73cb63d2ce46506678b5a13edcb75aeb5977")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cc96e7822817d6acc997140c8064fe6ca4e3988")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafio-Hotel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafio-Hotel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
