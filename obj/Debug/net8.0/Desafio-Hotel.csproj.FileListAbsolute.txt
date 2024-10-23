@@ -1,0 +1,15 @@
+C:\Users\caioc\OneDrive\Área de Trabalho\Desafio-Hotel\bin\Debug\net8.0\Desafio-Hotel.exe
+C:\Users\caioc\OneDrive\Área de Trabalho\Desafio-Hotel\bin\Debug\net8.0\Desafio-Hotel.deps.json
+C:\Users\caioc\OneDrive\Área de Trabalho\Desafio-Hotel\bin\Debug\net8.0\Desafio-Hotel.runtimeconfig.json
+C:\Users\caioc\OneDrive\Área de Trabalho\Desafio-Hotel\bin\Debug\net8.0\Desafio-Hotel.dll
+C:\Users\caioc\OneDrive\Área de Trabalho\Desafio-Hotel\bin\Debug\net8.0\Desafio-Hotel.pdb
+C:\Users\caioc\OneDrive\Área de Trabalho\Desafio-Hotel\obj\Debug\net8.0\Desafio-Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioc\OneDrive\Área de Trabalho\Desafio-Hotel\obj\Debug\net8.0\Desafio-Hotel.AssemblyInfoInputs.cache
+C:\Users\caioc\OneDrive\Área de Trabalho\Desafio-Hotel\obj\Debug\net8.0\Desafio-Hotel.AssemblyInfo.cs
+C:\Users\caioc\OneDrive\Área de Trabalho\Desafio-Hotel\obj\Debug\net8.0\Desafio-Hotel.csproj.CoreCompileInputs.cache
+C:\Users\caioc\OneDrive\Área de Trabalho\Desafio-Hotel\obj\Debug\net8.0\Desafio-Hotel.sourcelink.json
+C:\Users\caioc\OneDrive\Área de Trabalho\Desafio-Hotel\obj\Debug\net8.0\Desafio-Hotel.dll
+C:\Users\caioc\OneDrive\Área de Trabalho\Desafio-Hotel\obj\Debug\net8.0\refint\Desafio-Hotel.dll
+C:\Users\caioc\OneDrive\Área de Trabalho\Desafio-Hotel\obj\Debug\net8.0\Desafio-Hotel.pdb
+C:\Users\caioc\OneDrive\Área de Trabalho\Desafio-Hotel\obj\Debug\net8.0\Desafio-Hotel.genruntimeconfig.cache
+C:\Users\caioc\OneDrive\Área de Trabalho\Desafio-Hotel\obj\Debug\net8.0\ref\Desafio-Hotel.dll
